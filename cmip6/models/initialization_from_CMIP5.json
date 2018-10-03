@@ -1,5 +1,8 @@
 {
     "cams-csm1-0": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
         "atmos": {
             "initializedFrom": ""
         }, 
@@ -10,9 +13,6 @@
             "initializedFrom": ""
         }, 
         "seaice": {
-            "initializedFrom": ""
-        }, 
-        "toplevel": {
             "initializedFrom": ""
         }
     }
