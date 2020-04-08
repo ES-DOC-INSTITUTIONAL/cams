@@ -1,0 +1,8 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "cams", 
+    "seedingSource": "Spreadsheet", 
+    "sourceID": "cams-csm1-0", 
+    "topic": "atmos", 
+    "content": {}
+}
